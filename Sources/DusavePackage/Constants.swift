@@ -8,18 +8,6 @@
 import Foundation
 import SwiftUI
 
-let selfRegistrationFormatter = "dd/MM/yyyy"
-let dateFormateWithhMonthName = "dd/MMM/yyyy"
-let birthOfDateFormat = "MM/dd/yyyy"
-let forgotPassBirthDateFormate = "yyyy-MM-dd"
-let contactUsLocation = ""
-let contactUsLocationLong = 35.8481721
-let contactUsLocationLat = 31.9865168
-let contactUsPhoneNumber1 = "+962777700141"
-let contactUsPhoneNumber2 = "+962 6 000 00 02"
-let contactUsPhoneNumber3 = "+962 6 000 00 00"
-let contactUsEmail = "OrangeMoney.Care@Orange.com"
-
 public let appDomain = "https://om-dev.orange.jo:1583/OJM.API/api/" //"https://om-dev.orange.jo:1583/OJM.CliQAPI/api/"// //dev on orange
 let AppUnsecureDomain = "om-dev.orange.jo:1583"//"212.34.31.130" //dev on orange
 let appStoreLink = "https://apps.apple.com/us/app/orange-money-jordan/id1480149405"
