@@ -7,11 +7,6 @@
 
 import Foundation
 import SwiftUI
-let accountKey = "account"
-let lastLoginKey = "lastLogin"
-let dateTimeFormat = "MMM dd, yyyy hh:mm aa"
-let notificationsDateFormat = "MMM dd, yyyy"
-let responseDateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSS"
 
 let selfRegistrationFormatter = "dd/MM/yyyy"
 let dateFormateWithhMonthName = "dd/MMM/yyyy"
